@@ -1,0 +1,3 @@
+include ':persist-bottom-sheet-fragment'
+include ':app'
+rootProject.name = "PersistBottomSheetFragment"
